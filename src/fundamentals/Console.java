@@ -1,2 +1,4 @@
-package fundamentals;public class Console {
+package fundamentals;
+
+public class Console {
 }
