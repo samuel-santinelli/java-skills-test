@@ -1,2 +1,4 @@
-package fundamentals;public class TipoString {
+package fundamentals;
+
+public class TipoString {
 }
