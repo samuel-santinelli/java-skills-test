@@ -1,2 +1,4 @@
-package fundamentals;public class Wrapper {
+package fundamentals;
+
+public class Wrapper {
 }
