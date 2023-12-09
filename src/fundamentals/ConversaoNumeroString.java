@@ -1,2 +1,4 @@
-package fundamentals;public class ConversaoNumeroString {
+package fundamentals;
+
+public class ConversaoNumeroString {
 }
