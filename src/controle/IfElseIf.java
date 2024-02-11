@@ -23,7 +23,7 @@ public class IfElseIf {
         } else {
             System.out.println("E Concept");
         }
-        
+
         System.out.print("End!");
         entry.close();
     }
