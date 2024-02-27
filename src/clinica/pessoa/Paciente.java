@@ -1,4 +1,4 @@
-package clinica.pessoas;
+package clinica.pessoa;
 
 import java.util.Arrays;
 import java.util.List;
