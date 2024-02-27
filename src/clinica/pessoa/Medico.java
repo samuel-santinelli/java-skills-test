@@ -1,4 +1,4 @@
-package clinica.pessoas;
+package clinica.pessoa;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
