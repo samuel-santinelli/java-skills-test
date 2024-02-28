@@ -1,2 +1,4 @@
-package clinica.tela;public class TelaAgendamento {
+package clinica.tela;
+
+public class TelaAgendamento {
 }
