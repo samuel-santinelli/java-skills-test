@@ -15,5 +15,9 @@ public class Inferencia {
         c = "Other text";
         System.out.println(c);
 
+        double d;
+        d = 123.65;
+        System.out.println(d);
+
     }
 }
