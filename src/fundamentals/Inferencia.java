@@ -19,5 +19,8 @@ public class Inferencia {
         d = 123.65;
         System.out.println(d);
 
+        var e = 123.45;
+        System.out.println(e);
+
     }
 }
