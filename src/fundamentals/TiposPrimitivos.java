@@ -5,5 +5,6 @@ public class TiposPrimitivos {
         byte anosDeEmpresa = 23;
         short numeroDeVoos = 32767;
         int id = 56789;
+        long pontosAcumulados = 3_123_845_223L;
     }
 }
