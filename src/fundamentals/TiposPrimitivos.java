@@ -8,5 +8,6 @@ public class TiposPrimitivos {
         long pontosAcumulados = 3_123_845_223L;
 
         float salario =  11_445.44F;
+        double vendasAcumuladas = 2_991_797_103.01;
     }
 }
