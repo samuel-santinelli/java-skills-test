@@ -11,5 +11,8 @@ public class TiposPrimitivos {
         double vendasAcumuladas = 2_991_797_103.01;
 
         boolean isOnVacation = false;
+
+        char status = 'A';
+        System.out.println(status);
     }
 }
