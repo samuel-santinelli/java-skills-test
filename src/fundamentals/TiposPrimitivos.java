@@ -9,5 +9,7 @@ public class TiposPrimitivos {
 
         float salario =  11_445.44F;
         double vendasAcumuladas = 2_991_797_103.01;
+
+        boolean isOnVacation = false;
     }
 }
