@@ -14,5 +14,6 @@ public class TiposPrimitivos {
 
         char status = 'A';
         System.out.println(status);
+        
     }
 }
