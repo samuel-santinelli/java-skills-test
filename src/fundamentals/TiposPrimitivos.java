@@ -14,6 +14,10 @@ public class TiposPrimitivos {
 
         char status = 'A';
         System.out.println(status);
-        
+
+        System.out.println(anosDeEmpresa * 365);
+        System.out.println(numeroDeVoos / 2);
+
+
     }
 }
