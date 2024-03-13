@@ -17,6 +17,8 @@ public class TiposPrimitivos {
 
         System.out.println(anosDeEmpresa * 365);
         System.out.println(numeroDeVoos / 2);
+        System.out.println(pontosAcumulados / vendasAcumuladas);
+
 
 
     }
