@@ -19,6 +19,8 @@ public class TiposPrimitivos {
         System.out.println(numeroDeVoos / 2);
         System.out.println(pontosAcumulados / vendasAcumuladas);
 
+        System.out.println(id + ": ganha ->" + salario);
+
 
 
     }
