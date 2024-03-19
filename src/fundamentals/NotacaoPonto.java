@@ -5,6 +5,7 @@ public class NotacaoPonto {
         String s = "Bom dia X";
         s = s.toUpperCase();
         s = s.replaceAll("X", "Senhora");
+        s = s.concat("!!!");
         System.out.println(s);
     }
 }
