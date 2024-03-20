@@ -6,6 +6,13 @@ public class NotacaoPonto {
         s = s.toUpperCase();
         s = s.replaceAll("X", "Senhora");
         s = s.concat("!!!");
+
         System.out.println(s);
+
+        String x = "Leo".toUpperCase();
+        System.out.println(x);
+
+        String y = "Bom dia X".replace("X", "Gui");
+        System.out.println(y);
     }
 }
