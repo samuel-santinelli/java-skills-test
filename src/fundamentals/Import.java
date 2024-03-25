@@ -1,2 +1,7 @@
-package fundamentals;public class Import {
+package fundamentals;
+
+public class Import {
+    public static void main(String[] args) {
+        
+    }
 }
