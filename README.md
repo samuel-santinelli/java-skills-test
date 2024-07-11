@@ -106,15 +106,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
-Your Name - [@samuel-santinelli]([https://www.linkedin.com/in/samuel-santinelli])
+[@samuel-santinelli]([https://www.linkedin.com/in/samuel-santinelli])
 
 Project Link: [https://github.com/your-username/java-skills-test](https://github.com/samuel-santinelli/java-skills-test)
-
-
-Este README.md fornece uma visão abrangente do projeto, incluindo uma descrição detalhada dos tópicos abordados, tecnologias usadas, e instruções claras de instalação e uso. Adapte os detalhes conforme necessário para corresponder ao seu projeto específico.
