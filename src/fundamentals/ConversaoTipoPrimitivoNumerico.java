@@ -1,2 +1,5 @@
-package fundamentals;public class ConversaoTipoPrimitivoNumerico {
+package fundamentals;
+
+public class ConversaoTipoPrimitivoNumerico {
+    double a = 1;
 }
