@@ -1,2 +1,4 @@
-package fundamentals.operadores;public class Relacionais {
+package fundamentals.operadores;
+
+public class Relacionais {
 }
