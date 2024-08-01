@@ -18,4 +18,6 @@ public class ConversaoTipoPrimitivoNumerico {
         int f = (int) e;
         System.out.println(f);
     }
+
+    
 }
