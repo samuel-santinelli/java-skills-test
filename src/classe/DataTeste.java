@@ -2,18 +2,19 @@ package classe;
 
 public class DataTeste {
     public static void main(String[] args) {
-        Data d1 = new Data();
-        d1.day = 7;
-        d1.month = 11;
-        d1.year = 2021;
+        Data d1 = new Data(7, 11,2021);
+        var d2 = new Data(31, 12, 2020);
 
 
-        var d2 = new Data();
-        d2.day = 31;
-        d2.month = 12;
-        d2.year = 2020;
+        String formattedDate1 = d1.getFormattedDate();
+        String formattedDate2 = d2.getFormattedDate();
 
-        System.out.printf("%d/%d/%d\n", d1.day, d1.month, d1.year);
-        System.out.printf("%d/%d/%d", d2.day, d2.month, d2.year);
+        System.out.printf(formattedDate1);
+        System.out.printf(formattedDate2);
+
+        d1.writeFormattedDate();
+        d2.writeFormattedDate();
+
+        
     }
 }
