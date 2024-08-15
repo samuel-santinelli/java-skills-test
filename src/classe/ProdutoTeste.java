@@ -15,8 +15,8 @@ public class ProdutoTeste {
         p2.price = 12.56;
         p2.discount = 0.29;
 
-        double finalPrice1 = p1.price * (1 - p1.discount);
-        double finalPrice2 = p2.price * (1 - p1.discount);
+        double finalPrice1 = p1.priceWithDiscount();
+        double finalPrice2 = p2.priceWithDiscount(0.1);
         double carAverage = (finalPrice1 + finalPrice2) / 2;
 
         System.out.printf("The car average = R$%.2f.", carAverage);
