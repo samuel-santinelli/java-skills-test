@@ -15,6 +15,6 @@ public class DataTeste {
         d1.writeFormattedDate();
         d2.writeFormattedDate();
 
-        
+
     }
 }
