@@ -1,9 +1,9 @@
 package classe;
 
-public class AreCirc {
+public class AreaCirc {
 
     double raio;
-    double pi;
+    static double pi;
 
     AreaCirc(double raioInicial){
         pi = 3.14;
