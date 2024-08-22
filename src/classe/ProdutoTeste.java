@@ -7,9 +7,7 @@ public class ProdutoTeste {
 
         Produto p1 = new Produto("Notebook", 4356.89);
 
-        var p2 = new Produto();
-        p2.name = "Black Pen";
-        p2.price = 12.56;
+        var p2 = new Produto("Black Pen", 12.56);
 
         Produto.discount = 0.29;
 
