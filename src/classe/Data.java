@@ -7,9 +7,9 @@ public class Data {
 
 
     Data(int initialDay, int initialMonth, int initialYear){
-        day = initialDay;
-        month = initialMonth;
-        year = initialYear;
+        this.day = initialDay;
+        this.month = initialMonth;
+        this.year = initialYear;
     }
 
      String getFormattedDate(){
