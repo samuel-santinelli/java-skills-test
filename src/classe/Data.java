@@ -10,10 +10,18 @@ public class Data {
         this.day = initialDay;
         this.month = initialMonth;
         this.year = initialYear;
+
+        // byte, short, int, long -> 0
+        // float, double -> 0.0
+        // boolean -> false
+        // char -> '\u0000'
+
+        this(1, 1, 1970);
     }
 
      String getFormattedDate(){
-        return String.format("%d/%d/%d\n", day, month, year);
+        final String format = "%d/%d/%d";
+        return String.format(format, day, month, year);
     }
 
     void writeFormattedDate(){
