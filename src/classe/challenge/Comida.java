@@ -1,4 +1,4 @@
-package classe;
+package classe.challenge;
 
 public class Comida {
     String name;
