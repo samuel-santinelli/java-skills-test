@@ -14,4 +14,8 @@ public class Pessoa {
             this.weight += food.weight;
         }
     }
+
+    String present(){
+        return "Hi, i'am" + name + " and i have " + weight + " Kgs.";
+    }
 }
